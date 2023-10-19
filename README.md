@@ -32,10 +32,12 @@ The University System Backend offers a rich set of features:
   - Lecture Tracking: Keep track of taken and passed lectures.##
 
 ### Database Schema
-
 <img src="assets/sql_diagram.PNG?raw=true"/>
-
 The database schema represents the underlying structure of our system's data. This visual representation provides insights into how data is organized and related within the University System Backend.
+
+### Mobile Screenshots
+<img src="assets/mobile_screenshots.png?raw=true"/>
+The composite image showcases various screens and features of the mobile app in a single view.
 
 ## Conclusion
 The University System Backend is tailored to meet the academic needs of university students. With a strong focus on security and usability, this project ensures a smooth experience for users while enhancing their interactions with the university's educational processes.
