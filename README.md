@@ -1,7 +1,7 @@
 # University-System-Backend
 
 ## Introduction
-Welcome to the University System Backend! This project has been developed to showcase my proficiency in .NET Core with Entity Framework. It serves as the backbone for a dynamic Android application written in Kotlin, enabling a wide range of functionalities for users.
+Welcome to the University System Backend! This project has been developed as a learning opportunity to further my knowledge and expertise in .NET Core with Entity Framework. It serves as the backbone for a dynamic Android application written in Kotlin, enabling a wide range of functionalities for users.
 
 ## Project Overview
 The University System Backend offers a rich set of features:
@@ -33,7 +33,7 @@ The University System Backend offers a rich set of features:
 
 ### Database Schema
 
-<img src="assets/Capture.PNG?raw=true"/>
+<img src="assets/sql_diagram.PNG?raw=true"/>
 
 The database schema represents the underlying structure of our system's data. This visual representation provides insights into how data is organized and related within the University System Backend.
 
